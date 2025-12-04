@@ -1,0 +1,9 @@
+.git
+.vscode/
+vscode.env
+.python-version
+.ruff_cache/
+*.sqlite3
+.env
+/**/__pycache__/
+
